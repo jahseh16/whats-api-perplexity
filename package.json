@@ -1,0 +1,15 @@
+{
+  "name": "whatsapp-api-bot",
+  "version": "1.0.0",
+  "description": "API modular de WhatsApp con Baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@itsliaaa/baileys": "github:itsliaaa/baileys",
+    "express": "^4.19.2",
+    "pino": "^9.0.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
